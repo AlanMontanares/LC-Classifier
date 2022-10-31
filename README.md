@@ -1,5 +1,10 @@
-# Proyecto-4
+# Clasificacion estrellas periodicas EROS
 
+##Integrantes:
+Alan Contreras
+Patricio Jara
+
+#Resumen
 El proyecto consiste en la clasificacion de estrellas periodicas de la base de datos EROS.
 
 En este repositorio se entregan momentanemente 2 archivos .ipynb. El primero es "vectores.ipynb" el cual ocupa un extractor de caracteristicas en varios ejemplos, para ello primero deberá subir sus ejemplos a una carpeta de drive y copiar su ubibacion. Se recomienda ocupar Google Colab para ejecutarlo.
