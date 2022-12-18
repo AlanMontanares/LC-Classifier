@@ -7,6 +7,8 @@
   
   Adicionalmente se encuentra la carpeta "Features", la cual contiene todos los vectores de caracteristicas de la base de datos utilizada. Recordando que finalmente no se utilizaron todas las clases, pero igualmente ahi se encuentran.</p>
   
+  NOTA: El archivo "Entrenamiento_Proyecto_4.ipynb" corresponde al codigo utilizado en la entrega preliminar.</p>
+  
 </body>
       <h3>Integrantes:</h3>
   
