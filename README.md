@@ -10,10 +10,10 @@
   NOTA: El archivo "Entrenamiento_Proyecto_4.ipynb" corresponde al codigo utilizado en la entrega preliminar.</p>
   
 </body>
-      <h3>Integrantes:</h3>
+      <h3>Autor:</h3>
   
   <body>Alan Contreras</br>
-  Patricio Jara
+
   
 </body>
   
